@@ -12,9 +12,6 @@ Parameters:
 import fitz
 import sys
 
-from fitz.fitz import Matrix
-
-
 def main():
     
     if len(sys.argv) < 2:
